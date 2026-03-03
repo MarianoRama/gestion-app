@@ -34,11 +34,5 @@ cd gestion-app
 ./mvnw clean install
 ```
 
-### Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Author
 Mariano Rama, 2026-03-03 23:37:24 (UTC)
