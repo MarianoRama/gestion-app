@@ -34,5 +34,3 @@ cd gestion-app
 ./mvnw clean install
 ```
 
-### Author
-Mariano Rama, 2026-03-03 23:37:24 (UTC)
